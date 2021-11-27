@@ -1,0 +1,598 @@
+[33mcommit ba728c3e6514fe7efc96d95068fd47aa28f22914[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 22 13:57:49 2021 +0530
+
+    Typo fixed in repoUtils
+
+[33mcommit 63b8d6f7f8853a6d792b574a58fd625da9a8a806[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 22 13:56:48 2021 +0530
+
+    Bug fix in add collaborator
+
+[33mcommit f5d0f3a939e907157b264917bc05bda2525410ff[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Fri Apr 16 12:40:11 2021 +0530
+
+    fix bug
+
+[33mcommit 996ea9458de616ca152b223067dd2cf512e5fe4f[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 15 17:27:04 2021 +0530
+
+    Bug fix in add collaborator
+
+[33mcommit b136f8e0159212602c34eca272a3200a9ebab0bd[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Apr 14 00:18:09 2021 +0530
+
+    update README
+
+[33mcommit 1ac071c57c078cca9d4522b170d597ec39127558[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Apr 14 00:13:50 2021 +0530
+
+    add clear screen feature
+
+[33mcommit de521d1aebe113aea263f90173d216cd3b40a861[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Apr 14 00:03:28 2021 +0530
+
+    add password hiding on CLI
+
+[33mcommit 2abb1fde114418e6082ba491b8577ec6fde23033[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Apr 12 21:39:10 2021 +0530
+
+    fix README typos
+
+[33mcommit 8ef5f5e6834ee2fabb155444cde3b7a2a4219313[m
+Author: Ansh Sarkar <52290294+anshsarkar@users.noreply.github.com>
+Date:   Mon Apr 12 00:55:37 2021 +0530
+
+    Update README.md
+
+[33mcommit 0f1564efe57cf468dc2fb5101f344c4a9f18f63b[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Apr 12 00:31:01 2021 +0530
+
+    remove TODO
+
+[33mcommit 78b16ae1bd358be1bd776e954be8b414015bc3c1[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Apr 12 00:28:13 2021 +0530
+
+    Add support for invalid commands
+
+[33mcommit b1dbfdaf816c05ba0f22428e4f595f3b1ece2398[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Apr 12 00:22:29 2021 +0530
+
+    Update README
+
+[33mcommit 7f5494a2f063a3de77799808db7756150ebc326a[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Apr 12 00:22:11 2021 +0530
+
+    Update README
+
+[33mcommit f1d6e8fae8fb8e138fb92cc6878d3a1e960f4f15[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 20:53:16 2021 +0530
+
+    minor feature add
+
+[33mcommit b5e87a29e695ddc55d23d552dc66338cce2770f8[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 20:49:28 2021 +0530
+
+    minor typo fix
+
+[33mcommit 12ec357bab8b4707ccaa0c63c17ad740a96903a5[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 20:44:55 2021 +0530
+
+    initial readme
+
+[33mcommit f72f4cbf542cfcc274a1ef4cd810a5b6a7438068[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 20:28:20 2021 +0530
+
+    initial readme
+
+[33mcommit e1417b5e2067297cb51c1dcbe6949548d841e470[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 17:56:41 2021 +0530
+
+    refactor code and UI bug fixes
+
+[33mcommit e12fdd22f02140afaaec66ded81709f97f051222[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 17:55:16 2021 +0530
+
+    refactor code and UI bug fixes
+
+[33mcommit 4161bf51973378fe1a5161678db15d5163f37d64[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 17:43:05 2021 +0530
+
+    code cleanup
+
+[33mcommit 3ca185fa1f0cf029c231180dc2f976f6c5906106[m
+Merge: 8078fc0 120d262
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 17:21:25 2021 +0530
+
+    Merge branch 'main' of github.com:aditeyabaral/togepi into main
+
+[33mcommit 8078fc0d164851407972c72a8b6ba50ce84d7f1c[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 17:21:19 2021 +0530
+
+    update todo
+
+[33mcommit 120d2620d19088021035c2e6cae6aa86b14f27db[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Sun Apr 11 17:20:47 2021 +0530
+
+    Bug fix for repo create
+
+[33mcommit 81da690c3ef40913b66603b1169f6231cccb583a[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 16:55:53 2021 +0530
+
+    some adds
+
+[33mcommit d00c91c56d4a8cccc2f943eb82376d43756124ea[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 16:03:18 2021 +0530
+
+    some adds
+
+[33mcommit 4ed3e202b36c8eecea3cbe520ee5244d14ffb106[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Sun Apr 11 15:52:36 2021 +0530
+
+    Bug fix in username validation
+
+[33mcommit 9e41c3718fc02b0a7416ce5758751bd00ddc3ea8[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 11 15:50:19 2021 +0530
+
+    minor changes
+
+[33mcommit 5ff07bf3fe2352c3fc587ed993a664b072406af4[m
+Author: Aronya Baksy <50787681+abaksy@users.noreply.github.com>
+Date:   Sun Apr 11 11:56:13 2021 +0530
+
+    Update TODO.md
+
+[33mcommit 2c07d32eb80190d62b6f685c51683413139b1c94[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Sun Apr 11 10:49:58 2021 +0530
+
+    UI changes comprehensive
+
+[33mcommit fde06f4adf18e550e39711aa074ddd8d1db8ec5a[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 8 21:47:07 2021 +0530
+
+    Added sign up to GUI:
+
+[33mcommit aec12cd5c7e7430bf83aa0da81d4eafedc2e7218[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Apr 8 19:35:20 2021 +0530
+
+    remove flask app html stuff
+
+[33mcommit f3d519ce9c9b2aaa09c6b0ba5199434d0ca3f6eb[m
+Merge: 459d0d2 c2d3b31
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Apr 8 19:34:06 2021 +0530
+
+    Merge branch 'main' of github.com:aditeyabaral/togepi into main
+
+[33mcommit 459d0d28b250aaa6a181bd45d4daa003599bf03a[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Apr 8 19:33:47 2021 +0530
+
+    add initial gui
+
+[33mcommit c2d3b317174d7a17243253b233215c4d4e20670f[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 8 17:13:01 2021 +0530
+
+    Bug fix for user_id in repoUtils
+
+[33mcommit ba56052a3e76cc02eeefa326c051c5d21bd75012[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 8 17:04:35 2021 +0530
+
+    Added collaborator check for add, commit, push, pull
+
+[33mcommit 79b84647a8bfae4925ad5da54389f62b0f794950[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Apr 8 16:52:35 2021 +0530
+
+    minor changes
+
+[33mcommit 6397dddd687daf39c9e4a0229653e5ba3c001483[m
+Merge: 8329645 19613ec
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 8 11:05:06 2021 +0530
+
+    Merge branch 'main' of https://github.com/aditeyabaral/togepi into main
+
+[33mcommit 832964597660e58b4079d2dcc4406f453fd59728[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 8 11:04:45 2021 +0530
+
+    Added DB validation in create repo
+
+[33mcommit 19613ecbcc8c871fd6fd02be4300384d48449b3b[m
+Merge: 954080a ed1fe67
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Apr 8 09:41:01 2021 +0530
+
+    Merge branch 'main' of github.com:aditeyabaral/togepi into main
+
+[33mcommit 954080a8b12566de1405c100ad01be2a7d1d2497[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Apr 8 09:40:47 2021 +0530
+
+    minor change
+
+[33mcommit ed1fe672b5ef5b0ff9126b924130fb38a3babfc6[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Mon Apr 5 23:29:39 2021 +0530
+
+    Added add collab function, check for collab in clone and fix bugs
+
+[33mcommit c387537b1140b7188b584f69d3dfe34931ff8f98[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 4 23:26:38 2021 +0530
+
+    add logout
+
+[33mcommit 18c71459d0bde454984479f5615cdc263e0c4a3f[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Sun Apr 4 22:44:02 2021 +0530
+
+    Updated todo.md
+
+[33mcommit a6172a517c75909ff5f693042238aebf8f11da4f[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Sun Apr 4 22:43:02 2021 +0530
+
+    Added clone and removed print bug in pull
+
+[33mcommit 8b30c85e5faf52c0dc9dc8a4f02d3a7cd8ddc5d8[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 4 22:07:11 2021 +0530
+
+    add pull
+
+[33mcommit 65e9da7e7d7ec3cb8e7706db6036994b8c31fbb7[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 4 22:06:46 2021 +0530
+
+    add pull
+
+[33mcommit 3cb5bf08d629003042c79a061db35edfec498cea[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Sun Apr 4 21:20:56 2021 +0530
+
+    Added folder download from Dropbox
+
+[33mcommit 61263835939594e308af5eadf800cc561c3ac5ed[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 4 21:04:57 2021 +0530
+
+    major changes
+
+[33mcommit 5df769e288a640f02d48b6191dea0c0d83f6aeee[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 4 21:03:39 2021 +0530
+
+    major changes
+
+[33mcommit f629a004dd8a69c4531f3708cedbe642331cea21[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sun Apr 4 21:03:19 2021 +0530
+
+    major changes
+
+[33mcommit 5823634234d05c1481620885c50f39af1f28c3d3[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sat Apr 3 13:33:02 2021 +0530
+
+    add caching of current state
+
+[33mcommit b522aeae4ce4fbadf7e1841544a95862303cd545[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Sat Apr 3 00:06:23 2021 +0530
+
+    update todo
+
+[33mcommit bdb8a0e6ef6955d59f29a2562c01db6b92c89dbd[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Fri Apr 2 22:10:54 2021 +0530
+
+    update todo
+
+[33mcommit aa08095b4b25dc7a77f2e02536d42e9ba286a65e[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Fri Apr 2 21:55:47 2021 +0530
+
+    del diff files
+
+[33mcommit 209026e94e09c2a81959003ac148051997d655e2[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Fri Apr 2 21:55:12 2021 +0530
+
+    add commit and push
+
+[33mcommit a5160f838c015699227e70488ef48cb361ebae7c[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 1 18:14:18 2021 +0530
+
+    Added bug fixes in dbUtils
+
+[33mcommit 43dbf848566d442396eec5ce0851c3f51c912dd6[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 1 17:55:37 2021 +0530
+
+    Added bug fix for validationUtils
+
+[33mcommit 4bc58b688e43698adf6b2ba979cbd03222047e21[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Thu Apr 1 11:12:57 2021 +0530
+
+    Added validation for user details and optimized DB
+
+[33mcommit 1d14282d208f423495f2e8af6fbbb28a1a89aa01[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Apr 1 09:08:02 2021 +0530
+
+    update some docs
+
+[33mcommit 697942a823df7c039c9b36e4c0cf9a5e965e1eb8[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 31 21:11:53 2021 +0530
+
+    add tracking
+
+[33mcommit c4ae562c75a594c7416308e3c9c8013e77d56a0a[m
+Merge: 334a2fc e51a402
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 31 21:10:47 2021 +0530
+
+    Merge branch 'main' of github.com:aditeyabaral/togepi into main
+
+[33mcommit 334a2fca5150abd67d17497c98d3d62a6f7825df[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 31 21:10:25 2021 +0530
+
+    add tracking
+
+[33mcommit 1adb41ee20c5727d188763d08204748047d859a0[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 31 20:03:04 2021 +0530
+
+    db changes
+
+[33mcommit e51a4024b54ded466774edde2236f54930fcda3e[m
+Author: Ansh Sarkar <52290294+anshsarkar@users.noreply.github.com>
+Date:   Wed Mar 31 19:34:17 2021 +0530
+
+    Added google drive api files
+
+[33mcommit 3cbc721fa2b8e1f3d38b621af1a0a72e4493e9b4[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Wed Mar 31 09:51:00 2021 +0530
+
+    File storage validation
+
+[33mcommit 669cce136e88898037e6571e1ee6e5c364594caa[m
+Author: abaksy <abaksy@gmail.com>
+Date:   Tue Mar 30 19:20:31 2021 +0530
+
+    First level functions for Dropbox storage
+
+[33mcommit f534788d2ff63b2be97071d7e6497a00ccb326cc[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Tue Mar 30 11:20:16 2021 +0530
+
+    add help
+
+[33mcommit a71c3f09ab94680fbe1b15122accc1945b03f7f8[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 29 10:13:51 2021 +0530
+
+    add vc init
+
+[33mcommit 9148f57e2369726324c7982a7adb4a66c05c1ce6[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 29 10:12:16 2021 +0530
+
+    add vc init
+
+[33mcommit 45ecd8da3191a553e836ff663b06fabf967ab255[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Mar 25 10:49:47 2021 +0530
+
+    add TODO
+
+[33mcommit 3bf9327c87cda3d1858adf40338398e84c996a39[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Mar 25 10:23:35 2021 +0530
+
+    moved globals to utils
+
+[33mcommit e6ace7bdb4340f2fe5846ba1e5a3c34e7f565bba[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Mar 25 10:22:05 2021 +0530
+
+    moved globals to utils
+
+[33mcommit 8c878462312d27cae2c7bd75b588ccf815b72131[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Mar 25 10:06:01 2021 +0530
+
+    refactor code
+
+[33mcommit 7f7b97aa4ab20c92c1925f289130995b323359d5[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Thu Mar 25 09:55:56 2021 +0530
+
+    refactor code
+
+[33mcommit a4c517e0452efa20fc3f80a0d4fa2e8cad278b65[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 24 22:12:51 2021 +0530
+
+    add user functions
+
+[33mcommit 94d7be17c2572446c98ba7399a4ee613ebd66f74[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 24 19:51:14 2021 +0530
+
+    simplify  db
+
+[33mcommit f227a572692eff420b5ea6cd15f710108f2efb4c[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 24 19:47:43 2021 +0530
+
+    corrected spelling error in db
+
+[33mcommit aeecf8143df445214c553899c3a6c7905b31e2dc[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 24 19:42:06 2021 +0530
+
+    corrected spelling error in db
+
+[33mcommit 69a92a44a114650bef1f7ca755b5b9188a437553[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Wed Mar 24 19:39:01 2021 +0530
+
+    push updated db
+
+[33mcommit a4ef2ca314f9f07d26f41790fa1415f55791d257[m
+Author: Aronya Baksy <abaksy@gmail.com>
+Date:   Wed Mar 24 10:16:36 2021 +0530
+
+    Added CLI commands in utils
+
+[33mcommit b3601c3a5cf0a1fdbcd2f10b08dc24d969ce40aa[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Tue Mar 23 19:19:22 2021 +0530
+
+    db changes
+
+[33mcommit 76256fc4aeeb6827a0dc5aea906be4ad40c2edd4[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 19:28:05 2021 +0530
+
+    db test
+
+[33mcommit a7c6bbbca7690b785f6830fb08026e9b5efffdc9[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 19:24:41 2021 +0530
+
+    test db
+
+[33mcommit 709d08a29bed4ca30169841d9d4ff02bb4aed3f8[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 19:10:51 2021 +0530
+
+    test db
+
+[33mcommit 1cf47b90e92f495c03cdeebbdb14534723a52062[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 19:03:04 2021 +0530
+
+    fix deploy bug
+
+[33mcommit 33e6b0d05a97bfc3de600bdbfafdb117b4dd5fac[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 18:54:07 2021 +0530
+
+    fix deploy bug
+
+[33mcommit 08769345f69674d02ef10d4163f9c2634aef1576[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 18:46:48 2021 +0530
+
+    fix deploy bug
+
+[33mcommit fc03adb28bac62c481796e8f62ec9c17e783ab01[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 18:43:25 2021 +0530
+
+    fix deploy bug
+
+[33mcommit e4c030085693032ccdf82d91800e427b3a78fef0[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 18:37:54 2021 +0530
+
+    fix deploy bug
+
+[33mcommit 01b75ad4685c8eee143996932b9e0b0d812f73b9[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 18:32:47 2021 +0530
+
+    fix deploy bug
+
+[33mcommit 760a7f2e010947c81c5f9ce932b15008b5ff5ded[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 18:29:51 2021 +0530
+
+    fix deploy bug
+
+[33mcommit b39c7cd69229d4d49b9c84d1ad16726b7d6f458f[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 18:23:34 2021 +0530
+
+    fix deploy bug
+
+[33mcommit 0a7ff8c4aa9905d8e0bdfb72b7a2969da3fe7223[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 13:01:39 2021 +0530
+
+    fix deploy bug
+
+[33mcommit e899c9d9f12d7d2e09f79bab8b80cf34f636658d[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 12:59:35 2021 +0530
+
+    fix deploy bug
+
+[33mcommit df9da7f6d89caa4673806c34c5080dea410b9c18[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 12:55:27 2021 +0530
+
+    fix deploy bug
+
+[33mcommit 44cf4cd2bb50d337be20069f1ce599ad987f2061[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 12:51:18 2021 +0530
+
+    fix deploy bug
+
+[33mcommit 529e5594305f2ef89831c175db70b0da3fb9e375[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 12:49:08 2021 +0530
+
+    fix deploy bug
+
+[33mcommit f7328ce584412d3c0a521d9d74df9ba1677f61fe[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 12:47:14 2021 +0530
+
+    initial commit
+
+[33mcommit 5459fd7ea80e25db3720645a2d61d7505efc2ddd[m
+Author: Aditeya Baral <aditeya.baral@gmail.com>
+Date:   Mon Mar 22 11:24:20 2021 +0530
+
+    Initial commit

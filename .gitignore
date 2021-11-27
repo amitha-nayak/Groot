@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+vc/
+version-control/
+togepi/
+test/
+testrepo*/
+.idea
+*.zip
+.env
