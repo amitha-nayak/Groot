@@ -53,8 +53,8 @@ You can create users using `tgp user create`. This will create user specific dir
 
 ```bash
 >>> tgp user create
-Enter username: aronyabaksy
-Enter email: abaksy@gmail.com
+Enter username: amithanayak
+Enter email: nayak@gmail.com
 Enter password:
 Creating ID: USER000003
 New user successfully created.
