@@ -65,9 +65,9 @@ New user successfully created.
 You can create users using `tgp user login`
 ```bash
 >>> tgp user login
-Enter username: aditeyabaral
+Enter username: amithanayak
 Enter password: 
-Welcome back, aditeyabaral
+Welcome back, amithanayak
 ```
 
 #### Logout
@@ -101,7 +101,7 @@ Uploading .groot/tgpinfo.txt
 To clone a repository, it either needs to be public or you need to have collaborator access to it. Clone a repository using `tgp clone [USERNAME]/[REPOSITORY NAME]`
 
 ```bash
->>> tgp clone aditeyabaral/helloworld
+>>> tgp clone amithanayak/helloworld
 Cloning repository helloworld...
 Archive:  helloworld.zip
    creating: helloworld/
@@ -170,7 +170,7 @@ Archive:  myfirstrepo.zip
 To add a collaborator, you need to be the owner of the repository. Add a collaborator using `tgp repo add collab [USERNAME]`
 
 ```bash
->>> tgp repo add collab aronyabaksy
+>>> tgp repo add collab <username>
 User aronyabaksy successfully added as collaborator.
 ```
 
