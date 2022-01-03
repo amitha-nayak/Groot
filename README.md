@@ -171,7 +171,7 @@ To add a collaborator, you need to be the owner of the repository. Add a collabo
 
 ```bash
 >>> tgp repo add collab <username>
-User aronyabaksy successfully added as collaborator.
+User <username> successfully added as collaborator.
 ```
 
 ### Command Line Tools
@@ -190,7 +190,7 @@ Groot also features a convenient `help` command to assist you in times of need.
 
 ```bash
 >>> help
-TOGEPI
+GROOT
 
 Groot is a version control system built using Python3 and DropBox API
 
